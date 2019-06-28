@@ -10,6 +10,7 @@ Necessary Libraries:
 
 If you get 
 `OSError: libespeak.so.1: cannot open shared object file: No such file or directory`
+
 Do:
   `sudo apt-get update`
   `sudo apt-get install espeak`
