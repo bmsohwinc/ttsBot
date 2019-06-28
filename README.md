@@ -16,4 +16,4 @@ Do:
 
 The *GUI*:
 
-![Image is also in the Repo (theGUI.png)] (https://github.com/bmsohwinc/ttsBot/blob/master/theGUI.png)
+![Image is also in the Repo (theGUI.png)](https://github.com/bmsohwinc/ttsBot/blob/master/theGUI.png)
