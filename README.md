@@ -13,4 +13,7 @@ If you get
 Do:
   `sudo apt-get update`
   `sudo apt-get install espeak`
-  
+
+The *GUI*:
+
+![Image is also in the Repo (theGUI.png)] (https://github.com/bmsohwinc/ttsBot/blob/master/theGUI.png)
